@@ -82,7 +82,7 @@ export const Hero = () => {
           >
             {[
               { Icon: Github, href: "#", color: "from-black" },
-              { Icon: Linkedin, href: "#", color: "from-black" },
+              { Icon: Linkedin, href: "https://www.linkedin.com/in/rohit-manohar-80b949207/", color: "from-black" },
               { Icon: Mail, href: "#", color: "from-black to-emerald-900" },
               { Icon: Code2, href: "#", color: "from-black to-red-900" },
             ].map(({ Icon, href, color }, index) => (
